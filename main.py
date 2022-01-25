@@ -72,8 +72,8 @@ def scrapeAllData():
 # creating proper markdown for each detail key
 def insertDetail(obj, file):
     file.write('  - detail:\n')
-    file.write('      key: ' + obj['key'] + '\n')
-    file.write('      value: ' + obj['value'] + '\n')
+    file.write('      key: "' + obj['key'] + '"\n')
+    file.write('      value: "' + obj['value'] + '"\n')
 
 
 # function for creating a markdown file using details
