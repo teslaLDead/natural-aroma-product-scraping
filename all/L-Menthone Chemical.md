@@ -3,59 +3,59 @@ name: L-Menthone Chemical
 title: L-Menthone Chemical
 details:
   - detail:
-      key: Usage/Application
-      value: Fragrance, Flavour, Pharma
+      key: "Usage/Application"
+      value: "Fragrance, Flavour, Pharma"
   - detail:
-      key: Packaging Size
-      value: 5,25,200 Kg
+      key: "Packaging Size"
+      value: "5,25,200 Kg"
   - detail:
-      key: Brand
-      value: Natural Aroma
+      key: "Brand"
+      value: "Natural Aroma"
   - detail:
-      key: Packaging Type
-      value: Can,Barrel
+      key: "Packaging Type"
+      value: "Can,Barrel"
   - detail:
-      key: Specific Gravity
-      value: 0.890 to 0.902 (at 20 deg C)
+      key: "Specific Gravity"
+      value: "0.890 to 0.902 (at 20 deg C)"
   - detail:
-      key: Physical State
-      value: Liquid
+      key: "Physical State"
+      value: "Liquid"
   - detail:
-      key: Boiling Point
-      value: 207 deg C to 210 deg C
+      key: "Boiling Point"
+      value: "207 deg C to 210 deg C"
   - detail:
-      key: Molecular Weight
-      value: 154.25 g/mol
+      key: "Molecular Weight"
+      value: "154.25 g/mol"
   - detail:
-      key: CAS No
-      value: 14073-97-3
+      key: "CAS No"
+      value: "14073-97-3"
   - detail:
-      key: EINECS No
-      value: 237-926-1
+      key: "EINECS No"
+      value: "237-926-1"
   - detail:
-      key: FEMA No
-      value: 2667
+      key: "FEMA No"
+      value: "2667"
   - detail:
-      key: Chemical Formula
-      value: C10H18O
+      key: "Chemical Formula"
+      value: "C10H18O"
   - detail:
-      key: Source
-      value: Mentha Arvensis Oil
+      key: "Source"
+      value: "Mentha Arvensis Oil"
   - detail:
-      key: Odour
-      value: Typically minty
+      key: "Odour"
+      value: "Typically minty"
   - detail:
-      key: Refractive Index
-      value: 1.450 to 1.452 (at 20 deg C)
+      key: "Refractive Index"
+      value: "1.450 to 1.452 (at 20 deg C)"
   - detail:
-      key: Non Volatile Residue
-      value: Less than 0.05%
+      key: "Non Volatile Residue"
+      value: "Less than 0.05%"
   - detail:
-      key: Status
-      value: Nature Identical
+      key: "Status"
+      value: "Nature Identical"
   - detail:
-      key: Assay
-      value: Min. 98% by GLC
+      key: "Assay"
+      value: "Min. 98% by GLC"
 showOnHome: false
 thumbnail: https://5.imimg.com/data5/SELLER/Default/2021/12/RU/SQ/NQ/3823480/l-menthone-chemical-500x500.png
 productImages:

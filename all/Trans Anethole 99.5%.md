@@ -3,35 +3,35 @@ name: Trans Anethole 99.5%
 title: Trans Anethole 99.5%
 details:
   - detail:
-      key: Form
-      value: Liquid
+      key: "Form"
+      value: "Liquid"
   - detail:
-      key: Packaging Size
-      value: 5, 25, 200 Kg
+      key: "Packaging Size"
+      value: "5, 25, 200 Kg"
   - detail:
-      key: Packaging Type
-      value: Can, Barrel
+      key: "Packaging Type"
+      value: "Can, Barrel"
   - detail:
-      key: Brand
-      value: Natural Aroma
+      key: "Brand"
+      value: "Natural Aroma"
   - detail:
-      key: Usage/Application
-      value: Fragrance, Flavour, Pharma
+      key: "Usage/Application"
+      value: "Fragrance, Flavour, Pharma"
   - detail:
-      key: Formula
-      value: C10H12O
+      key: "Formula"
+      value: "C10H12O"
   - detail:
-      key: Molar mass
-      value: 148.2 g/mol
+      key: "Molar mass"
+      value: "148.2 g/mol"
   - detail:
-      key: Boiling point
-      value: 234 deg C
+      key: "Boiling point"
+      value: "234 deg C"
   - detail:
-      key: Density
-      value: 998 kg/m3
+      key: "Density"
+      value: "998 kg/m3"
   - detail:
-      key: Purity
-      value: 99.5%
+      key: "Purity"
+      value: "99.5%"
 showOnHome: false
 thumbnail: https://5.imimg.com/data5/SELLER/Default/2021/12/AC/ST/VH/3823480/trans-anethole-99-5--500x500.png
 productImages:

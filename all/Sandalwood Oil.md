@@ -3,26 +3,26 @@ name: Sandalwood Oil
 title: Sandalwood Oil
 details:
   - detail:
-      key: Usage/Application
-      value: Pharma
+      key: "Usage/Application"
+      value: "Pharma"
   - detail:
-      key: Brand
-      value: Natural Aroma
+      key: "Brand"
+      value: "Natural Aroma"
   - detail:
-      key: Packaging Size
-      value: 5, 25, 200 Kg
+      key: "Packaging Size"
+      value: "5, 25, 200 Kg"
   - detail:
-      key: Form
-      value: Oil
+      key: "Form"
+      value: "Oil"
   - detail:
-      key: Packaging Type
-      value: Can, Barrel
+      key: "Packaging Type"
+      value: "Can, Barrel"
   - detail:
-      key: Shelf Life
-      value: 1 Year
+      key: "Shelf Life"
+      value: "1 Year"
   - detail:
-      key: Country of Origin
-      value: Made in India
+      key: "Country of Origin"
+      value: "Made in India"
 showOnHome: false
 thumbnail: https://5.imimg.com/data5/SELLER/Default/2021/12/LE/MW/BK/3823480/sandalwood-oil-500x500.jpg
 productImages:

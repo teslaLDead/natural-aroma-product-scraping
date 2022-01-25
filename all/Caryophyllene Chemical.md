@@ -3,35 +3,35 @@ name: Caryophyllene Chemical
 title: Caryophyllene Chemical
 details:
   - detail:
-      key: Brand
-      value: Natural Aroma
+      key: "Brand"
+      value: "Natural Aroma"
   - detail:
-      key: Usage/Application
-      value: Fragrance,Flavour,Pharma
+      key: "Usage/Application"
+      value: "Fragrance,Flavour,Pharma"
   - detail:
-      key: Packaging Type
-      value: Can,Barrel
+      key: "Packaging Type"
+      value: "Can,Barrel"
   - detail:
-      key: Packaging Size
-      value: 5,25,200 Kg
+      key: "Packaging Size"
+      value: "5,25,200 Kg"
   - detail:
-      key: Physical Form
-      value: Liquid
+      key: "Physical Form"
+      value: "Liquid"
   - detail:
-      key: Chemical Formula
-      value: C15H24
+      key: "Chemical Formula"
+      value: "C15H24"
   - detail:
-      key: Density
-      value: 905 kg/m3
+      key: "Density"
+      value: "905 kg/m3"
   - detail:
-      key: Boiling Point
-      value: 130 deg C
+      key: "Boiling Point"
+      value: "130 deg C"
   - detail:
-      key: Molecular Weight
-      value: 204.35 g/mol
+      key: "Molecular Weight"
+      value: "204.35 g/mol"
   - detail:
-      key: CAS Number
-      value: 87-44-5
+      key: "CAS Number"
+      value: "87-44-5"
 showOnHome: false
 thumbnail: https://5.imimg.com/data5/SELLER/Default/2021/12/RN/FG/PM/3823480/caryophyllene-chemical-500x500.png
 productImages:

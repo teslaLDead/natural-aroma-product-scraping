@@ -3,53 +3,53 @@ name: Para Cymene
 title: Para Cymene
 details:
   - detail:
-      key: Specific Gravity
-      value: 0.853 to 0.860
+      key: "Specific Gravity"
+      value: "0.853 to 0.860"
   - detail:
-      key: Flash Point
-      value: 52 deg C
+      key: "Flash Point"
+      value: "52 deg C"
   - detail:
-      key: Physical State
-      value: Liquid
+      key: "Physical State"
+      value: "Liquid"
   - detail:
-      key: Usage
-      value: Fragrance, Flavour, Pharma
+      key: "Usage"
+      value: "Fragrance, Flavour, Pharma"
   - detail:
-      key: Brand
-      value: Natural Aroma
+      key: "Brand"
+      value: "Natural Aroma"
   - detail:
-      key: Boiling Point
-      value: 177 deg C
+      key: "Boiling Point"
+      value: "177 deg C"
   - detail:
-      key: Melting Point
-      value: -68 deg C
+      key: "Melting Point"
+      value: "-68 deg C"
   - detail:
-      key: Odour
-      value: Characteristic spicy odour.
+      key: "Odour"
+      value: "Characteristic spicy odour."
   - detail:
-      key: Source
-      value: Para Cymene is sourced from Ajwain oil by the fractional distillation process.
+      key: "Source"
+      value: "Para Cymene is sourced from Ajwain oil by the fractional distillation process."
   - detail:
-      key: Molecular Weight
-      value: 134.21 g/mol
+      key: "Molecular Weight"
+      value: "134.21 g/mol"
   - detail:
-      key: Molecular Formula
-      value: C10H14
+      key: "Molecular Formula"
+      value: "C10H14"
   - detail:
-      key: FEMA No
-      value: 2356
+      key: "FEMA No"
+      value: "2356"
   - detail:
-      key: EC No
-      value: 202-796-7.
+      key: "EC No"
+      value: "202-796-7."
   - detail:
-      key: CAS No
-      value: 99-87-6
+      key: "CAS No"
+      value: "99-87-6"
   - detail:
-      key: Packaging Size
-      value: 5, 25, 200 Kg
+      key: "Packaging Size"
+      value: "5, 25, 200 Kg"
   - detail:
-      key: Packaging Type
-      value: Can, Barrel
+      key: "Packaging Type"
+      value: "Can, Barrel"
 showOnHome: false
 thumbnail: https://5.imimg.com/data5/SELLER/Default/2021/12/GK/IO/IQ/3823480/para-cymene-500x500.png
 productImages:

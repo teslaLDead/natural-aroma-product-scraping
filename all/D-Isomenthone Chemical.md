@@ -3,50 +3,50 @@ name: D-Isomenthone Chemical
 title: D-Isomenthone Chemical
 details:
   - detail:
-      key: Usage/Application
-      value: Fragrance, Flavour, Pharma
+      key: "Usage/Application"
+      value: "Fragrance, Flavour, Pharma"
   - detail:
-      key: Packaging Size
-      value: 5,25,200 Kg
+      key: "Packaging Size"
+      value: "5,25,200 Kg"
   - detail:
-      key: Brand
-      value: Natural Aroma
+      key: "Brand"
+      value: "Natural Aroma"
   - detail:
-      key: Physical State
-      value: Liquid
+      key: "Physical State"
+      value: "Liquid"
   - detail:
-      key: Packaging Type
-      value: Can,Barrel
+      key: "Packaging Type"
+      value: "Can,Barrel"
   - detail:
-      key: Specific Gravity
-      value: 0.895 to 0.905 (at 20 deg C)
+      key: "Specific Gravity"
+      value: "0.895 to 0.905 (at 20 deg C)"
   - detail:
-      key: Formula
-      value: C10H18O
+      key: "Formula"
+      value: "C10H18O"
   - detail:
-      key: Boiling point
-      value: 208 deg C
+      key: "Boiling point"
+      value: "208 deg C"
   - detail:
-      key: Molar mass
-      value: 154.25 g/mol
+      key: "Molar mass"
+      value: "154.25 g/mol"
   - detail:
-      key: Density
-      value: 855 kg/m3
+      key: "Density"
+      value: "855 kg/m3"
   - detail:
-      key: CAS No
-      value: 1196-31-2
+      key: "CAS No"
+      value: "1196-31-2"
   - detail:
-      key: Optical Rotation
-      value: +95.0 degree based on iso menthone
+      key: "Optical Rotation"
+      value: "+95.0 degree based on iso menthone"
   - detail:
-      key: Non Volatile Residue
-      value: < 0.05%
+      key: "Non Volatile Residue"
+      value: "< 0.05%"
   - detail:
-      key: Assay
-      value: Minimum 90% by GLC
+      key: "Assay"
+      value: "Minimum 90% by GLC"
   - detail:
-      key: Source
-      value: Mentha Arvensis Oil
+      key: "Source"
+      value: "Mentha Arvensis Oil"
 showOnHome: false
 thumbnail: https://5.imimg.com/data5/SELLER/Default/2021/12/YA/XS/VJ/3823480/d-isomenthone-chemical-500x500.png
 productImages:

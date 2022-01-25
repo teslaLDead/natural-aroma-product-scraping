@@ -3,38 +3,38 @@ name: Phenyl Ethyl Methyl Ether
 title: Phenyl Ethyl Methyl Ether
 details:
   - detail:
-      key: Packaging Type
-      value: Can, Barrel
+      key: "Packaging Type"
+      value: "Can, Barrel"
   - detail:
-      key: Brand
-      value: Natural Aroma
+      key: "Brand"
+      value: "Natural Aroma"
   - detail:
-      key: Cas Number
-      value: 3550-60-0
+      key: "Cas Number"
+      value: "3550-60-0"
   - detail:
-      key: Packaging Size
-      value: 5, 25, 200 Kg
+      key: "Packaging Size"
+      value: "5, 25, 200 Kg"
   - detail:
-      key: Formula
-      value: C9H12O
+      key: "Formula"
+      value: "C9H12O"
   - detail:
-      key: Molecular Weight
-      value: 136.2 g/mol
+      key: "Molecular Weight"
+      value: "136.2 g/mol"
   - detail:
-      key: Specific Gravity
-      value: 0.948 to 0.960 at 20 deg C
+      key: "Specific Gravity"
+      value: "0.948 to 0.960 at 20 deg C"
   - detail:
-      key: Refractive Index
-      value: 1.49 to 1.50 at 25 deg C
+      key: "Refractive Index"
+      value: "1.49 to 1.50 at 25 deg C"
   - detail:
-      key: Purity
-      value: 99%
+      key: "Purity"
+      value: "99%"
   - detail:
-      key: Flash Point
-      value: > 74 deg C to 75 deg C
+      key: "Flash Point"
+      value: "> 74 deg C to 75 deg C"
   - detail:
-      key: Physical State
-      value: Liquid
+      key: "Physical State"
+      value: "Liquid"
 showOnHome: false
 thumbnail: https://5.imimg.com/data5/SELLER/Default/2021/12/QU/DC/TD/3823480/phenyl-ethyl-methyl-ether-500x500.jpg
 productImages:

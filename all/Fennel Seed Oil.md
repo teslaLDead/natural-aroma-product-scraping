@@ -3,32 +3,32 @@ name: Fennel Seed Oil
 title: Fennel Seed Oil
 details:
   - detail:
-      key: Brand
-      value: Natural Aroma
+      key: "Brand"
+      value: "Natural Aroma"
   - detail:
-      key: Shelf Life
-      value: 24 Month
+      key: "Shelf Life"
+      value: "24 Month"
   - detail:
-      key: Botanical Name
-      value: Foeniculum vulgare dulce
+      key: "Botanical Name"
+      value: "Foeniculum vulgare dulce"
   - detail:
-      key: Form
-      value: Liquid
+      key: "Form"
+      value: "Liquid"
   - detail:
-      key: Packaging Size
-      value: 5, 25, 200 Kg
+      key: "Packaging Size"
+      value: "5, 25, 200 Kg"
   - detail:
-      key: Storage
-      value: Keep in tightly closed container placed in cool and dry place, away from light.
+      key: "Storage"
+      value: "Keep in tightly closed container placed in cool and dry place, away from light."
   - detail:
-      key: Solubility
-      value: Insoluble in water
+      key: "Solubility"
+      value: "Insoluble in water"
   - detail:
-      key: CAS Number
-      value: 8006
+      key: "CAS Number"
+      value: "8006"
   - detail:
-      key: Packaging Type
-      value: Can, Barrel
+      key: "Packaging Type"
+      value: "Can, Barrel"
 showOnHome: false
 thumbnail: https://5.imimg.com/data5/SELLER/Default/2021/12/ZJ/FI/UM/3823480/fennel-seed-oil-500x500.jpg
 productImages:
